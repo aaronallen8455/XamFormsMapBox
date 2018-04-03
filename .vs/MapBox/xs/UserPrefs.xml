@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{EC16811C-E34B-49BA-A54D-F9FD8C250F75}|Default">
+  <MonoDevelop.Ide.ItemProperties.MapBox.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="MapBox/MapBox.iOS/MapBoxRenderer.cs" Line="31" Column="41" />
+      <File FileName="MapBox/MapBox.Android/MapBoxRenderer.cs" Line="46" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MapBox.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B98BC28F-6DA5-4C1E-83D2-0EEA2C37D1D6" />
+  <MultiItemStartupConfigurations />
+</Properties>
